@@ -5,6 +5,7 @@ This is a sample module for an insurance system. The module provides an opportun
 In this project, only the back-end of the system is going to be implemented, although the front-end was included while designing the entire system.
 
 ## Application Architecture Diagram:
+![Architecture-Flow](https://github.com/user-attachments/assets/b2951c1a-a739-4c33-8d0d-d590a1d304ef)
 
 
 ## Data Model Diagram:
